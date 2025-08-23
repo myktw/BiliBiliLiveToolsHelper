@@ -2,4 +2,4 @@
 # cron:0 0 * * *
 # new Env('bili每日直播任务');
 
-task fansMedalHelper/index.py
+task myktw_BiliBiliLiveToolsHelper/fansMedalHelper/index.py
