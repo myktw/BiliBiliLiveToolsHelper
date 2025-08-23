@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Crons="0 0 30 2 *"
+# cron:@once
 # new Env('更新');
 
 git clone https://github.com/XiaoMiku01/fansMedalHelper.git
