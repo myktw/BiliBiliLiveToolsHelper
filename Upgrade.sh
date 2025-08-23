@@ -1,3 +1,7 @@
+#!/usr/bin/env bash
+# cron:5 9 * * *
+# new Env('更新');
+
 git clone https://github.com/XiaoMiku01/fansMedalHelper.git
 # cp fansMedalHelper/users.example.yaml fansMedalHelper/users.yaml
 cd fansMedalHelper
