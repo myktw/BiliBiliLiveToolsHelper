@@ -2,4 +2,4 @@
 # cron:5 9 * * *
 # new Env('bili每日直播任务');
 
-. update_fansMedalHelper.sh
+. fansMedalHelper/index.py
