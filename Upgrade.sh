@@ -3,7 +3,8 @@
 # new Env('更新');
 
 git clone https://github.com/XiaoMiku01/fansMedalHelper.git
-cp users.yaml fansMedalHelper/users.yaml
+# cp users.yaml fansMedalHelper/users.yaml
 cd fansMedalHelper
+wget https://raw.githubusercontent.com/XiaoMiku01/fansMedalHelper/main/users.yaml -O users.yaml
 git config --global --add safe.directory /ql/data/scripts/BiliBiliLive/fansMedalHelper
 git pull
